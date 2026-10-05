@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ironbrain-mcp",
+  "version": "0.1.0",
+  "description": "Ironbrain platform MCP — Outbox HITL, connectors, and capabilities catalog over remote HTTP (OAuth).",
+  "author": {
+    "name": "kern-services"
+  },
+  "license": "MIT",
+  "homepage": "https://www.ironbrain.de/",
+  "repository": "https://github.com/kern-services/ironbrain-mcp"
+}

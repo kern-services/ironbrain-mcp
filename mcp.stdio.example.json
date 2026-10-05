@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ironbrain-mcp": {
+      "command": "ironbrain-mcp",
+      "env": {
+        "IRONBRAIN_API_BASE_URL": "https://app.ironbrain.de/api",
+        "IRONBRAIN_SUPABASE_URL": "https://id.ironbrain.de",
+        "IRONBRAIN_OAUTH_CLIENT_ID": "c086ddde-1812-41e1-8781-656e0f72ea0e"
+      }
+    }
+  }
+}

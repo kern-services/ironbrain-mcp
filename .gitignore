@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets & local config
+.secrets/
+*.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log

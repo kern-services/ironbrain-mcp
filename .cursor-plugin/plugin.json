@@ -1,0 +1,24 @@
+{
+  "name": "ironbrain-mcp",
+  "version": "0.1.0",
+  "description": "Ironbrain platform MCP — account + Outbox HITL via remote Streamable HTTP. Not MailCal (no adapter secrets on the bot host).",
+  "author": {
+    "name": "kern-services",
+    "email": "hello@ironbrain.de"
+  },
+  "homepage": "https://www.ironbrain.de/",
+  "repository": "https://github.com/kern-services/ironbrain-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "ironbrain",
+    "mcp",
+    "outbox",
+    "hitl",
+    "oauth",
+    "http",
+    "connectors",
+    "email",
+    "calendar"
+  ]
+}

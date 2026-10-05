@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ironbrain": {
+      "url": "https://app.ironbrain.de/api/mcp",
+      "auth": {
+        "CLIENT_ID": "c086ddde-1812-41e1-8781-656e0f72ea0e"
+      }
+    }
+  }
+}
